@@ -1,46 +1,57 @@
-![gabb1337sky — De la idea a algo que funciona.](./banner.svg)
+![Gabb1337 — Security Research / Unit 01](./banner.svg)
 
 <div align="center">
 
-### Desarrollo web · Automatización · Exploración de seguridad
+### Security Researcher · Bug Bounty Hunter
 
-Construyo experiencias web y exploro cómo simplificar procesos con código.
+Web & API · Mobile · Firmware · Smart Contracts
 
-[Ver mi portafolio ↗](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site)
+**Investigar el límite. Demostrar el impacto.**
 
----
+[Portafolio ↗](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site) · [X](https://x.com/Gabbsec1337) · [LinkedIn](https://www.linkedin.com/in/gabb1337ro/)
 
 </div>
 
-### Sobre mí
+---
 
-Me interesan las interfaces claras, las herramientas prácticas y el aprendizaje continuo. Trabajo con HTML, CSS y JavaScript, y exploro la automatización y la seguridad de aplicaciones.
+Soy **Gabb1337**. Investigo controles de seguridad, construyo pruebas de concepto y documento el impacto que puedo demostrar. Mi trabajo combina revisión de código, pruebas diferenciales y análisis de aplicaciones, APIs, dispositivos y contratos inteligentes.
 
-### Trabajo seleccionado
+### Investigación
 
-| Área | Proyecto | Enfoque |
-| --- | --- | --- |
-| Desarrollo web | Catálogo y pedidos para un emprendimiento | Interfaz adaptable, selección de productos, cálculo de totales y preparación del pedido para mensajería. |
-| Automatización y documentación | Artefactos de entrega | Organización de entregables y registros de estado en Markdown. |
+| Superficie | Líneas de trabajo documentadas |
+| --- | --- |
+| Web y APIs | IDOR/BOLA, autorización entre proyectos, XSS almacenado y lógica de negocio. |
+| Autenticación y sesiones | Revocación, renovación de credenciales, dispositivos y canales persistentes. |
+| Android | WebViews, puentes nativos, contexto de identidad y notificaciones. |
+| Sistemas y cloud | SSRF, controles de salida, aislamiento y exposición de información. |
+| Firmware | Análisis de binarios, rutas de datos, emulación y límites de validación física. |
+| Web3 | Pruebas de invariantes, contabilidad y transiciones de estado; Move y revisión de Solidity. |
 
-Los proyectos se presentan con nombres anonimizados. Los repositorios de trabajo se mantienen privados; el portafolio reúne una selección sin identidades de programas, objetivos o terceros.
+### Evidencia antes que afirmaciones
 
-### Tecnologías
+1. Definir el alcance, los actores y el control esperado.
+2. Comparar baseline, control negativo y variante.
+3. Demostrar el impacto con datos o entornos propios y registrar sus límites.
+4. Deduplicar, redactar evidencia, proponer remediación y limpiar los artefactos.
 
-`HTML` · `CSS` · `JavaScript` · `Git` · `Markdown`
+Mi vault de Obsidian conecta hipótesis, notas de sesión, pruebas y decisiones con sus fuentes. Los expedientes de trabajo incluyen flujos de **Bugcrowd, HackerOne y HackenProof**.
 
-### Mi enfoque
+### Divulgación responsable
 
-- Entender la tarea antes de construir la solución.
-- Reducir pasos y hacer que las interfaces sean fáciles de usar.
-- Producir resultados legibles y cuidar la información de terceros.
+El [portafolio](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site) presenta nueve líneas seleccionadas con identidades anonimizadas. Los programas, objetivos, payloads, endpoints, credenciales y reportes originales permanecen reservados.
+
+Los estados distinguen envíos, duplicados y validaciones locales: **un envío no equivale a aceptación ni recompensa**, y una prueba en emulación no se presenta como validación física.
+
+Los repositorios de trabajo son privados. Este perfil público reúne únicamente la presentación del portafolio.
 
 ---
 
 <div align="center">
 
-**Código, curiosidad y atención al detalle.**
+**Gabb1337 / RESEARCH UNIT 01**
 
-[Explorá el portafolio](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site)
+[Explorar investigación](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site) · [Conectar en LinkedIn](https://www.linkedin.com/in/gabb1337ro/)
+
+<sub>Estética inspirada en EVA-01. Portafolio personal, sin afiliación oficial.</sub>
 
 </div>
