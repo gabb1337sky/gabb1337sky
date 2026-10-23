@@ -1,19 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">gabb1337sky — Código, curiosidad y atención al detalle</title>
-  <desc id="desc">Portafolio de desarrollo web, automatización y exploración de seguridad.</desc>
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#82984b" stroke-opacity=".18"/></pattern>
-  </defs>
-  <rect width="1200" height="320" rx="16" fill="#f1f1e9"/>
-  <rect x="820" width="380" height="320" fill="#d6ef78"/>
-  <rect x="820" width="380" height="320" fill="url(#grid)"/>
-  <g fill="none" stroke="#728840" stroke-opacity=".5"><ellipse cx="1010" cy="160" rx="160" ry="65" transform="rotate(-30 1010 160)"/><ellipse cx="1010" cy="160" rx="160" ry="65" transform="rotate(30 1010 160)"/></g>
-  <circle cx="61" cy="55" r="4" fill="#758a3c"/>
-  <text x="77" y="60" font-family="monospace" font-size="12" letter-spacing="2" fill="#606854">DESARROLLO &amp; EXPLORACIÓN</text>
-  <text x="54" y="148" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="64" letter-spacing="-3" fill="#242820">gabb1337sky.</text>
-  <text x="57" y="194" font-family="Georgia,serif" font-style="italic" font-size="26" fill="#434e35">De la idea a algo que funciona.</text>
-  <path d="M58 230H755" stroke="#d2d5c9"/>
-  <text x="58" y="270" font-family="monospace" font-size="12" letter-spacing="1" fill="#62665c">WEB / AUTOMATIZACIÓN / SEGURIDAD</text>
-  <text x="956" y="212" font-family="Georgia,serif" font-style="italic" font-size="200" fill="#242820">g</text>
-  <path d="M1050 90h34v34m0-34-40 40" stroke="#242820" stroke-width="7" fill="none"/>
+<title id="title">Gabb1337 — Security Research / Unit 01</title><desc id="desc">Investigación de ciberseguridad y bug bounty, con estética violeta y verde inspirada en EVA-01.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#986bd0" stroke-opacity=".14"/></pattern></defs>
+<rect width="1200" height="320" rx="8" fill="#0b0b12"/><path d="M0 0h900v4H0Z" fill="#7650c4"/><path d="M900 0h300v4H900Z" fill="#bcf85b"/><rect x="800" y="4" width="400" height="316" fill="#1b1227"/><rect x="800" y="4" width="400" height="316" fill="url(#grid)"/>
+<path d="M800 4V320" stroke="#60447b"/><text x="845" y="260" font-family="Arial,Helvetica,sans-serif" font-size="260" font-weight="900" fill="#7650c4" fill-opacity=".35" letter-spacing="-15">01</text><path d="M820 28h22m-22 0v22m355 245h-22m22 0v-22" stroke="#bcf85b" fill="none"/>
+<circle cx="59" cy="55" r="4" fill="#bcf85b"/><text x="75" y="60" font-family="monospace" font-size="12" letter-spacing="2" fill="#b8a6c9">SECURITY RESEARCHER / BUG BOUNTY</text>
+<text x="53" y="145" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="70" letter-spacing="-3" fill="#f0f0f4">Gabb<tspan fill="#a07af4">1337</tspan><tspan fill="#bcf85b">.</tspan></text><text x="57" y="191" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" fill="#bcf85b">INVESTIGAR EL LÍMITE. DEMOSTRAR EL IMPACTO.</text><path d="M58 225H742" stroke="#302b3c"/>
+<text x="58" y="268" font-family="monospace" font-size="12" letter-spacing="1" fill="#a19aa9">WEB / API / MOBILE / FIRMWARE / WEB3</text><text x="830" y="51" font-family="monospace" font-size="10" letter-spacing="2" fill="#bcf85b">EVA-01 / RESEARCH UNIT</text><text x="830" y="293" font-family="monospace" font-size="9" letter-spacing="1" fill="#a19aa9">EVIDENCE BEFORE CLAIMS</text>
 </svg>
