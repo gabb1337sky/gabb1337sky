@@ -8,7 +8,7 @@ Web & API · Mobile · Firmware · Smart Contracts
 
 **Investigar el límite. Demostrar el impacto.**
 
-[Portafolio ↗](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site) · [X](https://x.com/Gabbsec1337) · [LinkedIn](https://www.linkedin.com/in/gabb1337ro/)
+[Portafolio ↗](https://gabb1337.com) · [X](https://x.com/Gabbsec1337) · [LinkedIn](https://www.linkedin.com/in/gabb1337ro/)
 
 </div>
 
@@ -38,7 +38,7 @@ Mi vault de Obsidian conecta hipótesis, notas de sesión, pruebas y decisiones 
 
 ### Divulgación responsable
 
-El [portafolio](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site) presenta nueve líneas seleccionadas con identidades anonimizadas. Los programas, objetivos, payloads, endpoints, credenciales y reportes originales permanecen reservados.
+El [portafolio](https://gabb1337.com) presenta nueve líneas seleccionadas con identidades anonimizadas. Los programas, objetivos, payloads, endpoints, credenciales y reportes originales permanecen reservados.
 
 Los estados distinguen envíos, duplicados y validaciones locales: **un envío no equivale a aceptación ni recompensa**, y una prueba en emulación no se presenta como validación física.
 
@@ -50,7 +50,7 @@ Los repositorios de trabajo son privados. Este perfil público reúne únicament
 
 **Gabb1337 / RESEARCH UNIT 01**
 
-[Explorar investigación](https://gabb1337sky-portfolio.fergabriel711.chatgpt.site) · [Conectar en LinkedIn](https://www.linkedin.com/in/gabb1337ro/)
+[Explorar investigación](https://gabb1337.com) · [Conectar en LinkedIn](https://www.linkedin.com/in/gabb1337ro/)
 
 <sub>Estética inspirada en EVA-01. Portafolio personal, sin afiliación oficial.</sub>
 
